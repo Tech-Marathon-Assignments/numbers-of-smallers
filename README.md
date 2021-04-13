@@ -1,3 +1,9 @@
+# Problem statement
+
+**Đề bài**: Cho một mảng gồm các số nguyên. In ra kết quả là mảng với số lượng số trong mảng nhỏ hơn số tại vị trí đó (không bao gồm chính số đó).
+
+**Problem**: Given an array of integers. Print the result as an array with the number of numbers in the array less than the number at that position (excluding the number itself).
+
 # Instructions
 
 ## Setup
